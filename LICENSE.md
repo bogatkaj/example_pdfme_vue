@@ -1,4 +1,4 @@
-## Released unter "The Unlicense" with additions
+## Released under "The Unlicense" with additions
 
 This is free and unencumbered software released into the public domain.
 
